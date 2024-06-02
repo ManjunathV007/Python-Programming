@@ -1,2 +1,2 @@
 # Python-Programming
-Basic Python Programs for Beginners.
+One stop for all basic Python Programs.
